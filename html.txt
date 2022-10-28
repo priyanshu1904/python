@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Festivals</title>
+    </head>
+    <body>
+        <!--used for comment-->
+        <h1><strong>DIWALI</strong></h1>
+        <p>Diwali is a festivaL of lights,joy and happiness will be celebrated this year on 24th october.</p>
+        <img 
+          src="https://img.jagranjosh.com/images/2022/October/13102022/compress_diwali_2022_reasons.jpg" 
+          alt="image"
+          width='300'
+          height='200'/>
+         <a href="https://www.hindustantimes.com/">more to know about DIWALI</a>
+         <hr />
+         <P>This festival is celebrated with great enthusiasm and grandeur, </br>it is observed on the 15th day of Krishna Paksha on 
+            amavasya tithi in the month of Kartik.</br>
+         <pre>
+            Although, there are no official records stating the origin of Diwali; among many legends about this festival,
+            one thing is common — the triumph of good over evil.</pre></P>
+    </body>
+</html>
